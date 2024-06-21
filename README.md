@@ -1,3 +1,2 @@
-# Car_Price_Prediction
-Predected car price using different Supervised Machine Learning model with HyperParameter tunning to get to the conclusion
-that after HyperParameter tunning the model showing best result remains the best. 
+# Car price prediction accuracies of different supervised machine learning methods with parameter tuning
+Predicting the price of a car is always a challenge for people, according to the features of the car the price varies. Sometimes customers are not satisfied with the price according to the feature. For accurate prediction, it requires a lot of knowledge about the features. This paper proposed a Supervised learning model Linear Regression, Random Forest, Gradient Boosting, and XGBoost to Predict the price of the car. We trained our model with data from cars which was collected from Kaggle. Using all these models we get the best accuracy with Gradient Boosting which is 90.1483% and changes in parameters led to changes in the accuracy of a model and can give better results which is 90.6083% and it is fitted as the optimized model.
